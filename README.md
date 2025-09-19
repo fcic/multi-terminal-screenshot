@@ -1,6 +1,6 @@
 # 多端带壳网站预览工具
 
-[示例网站](https://prtsc.liushen.fun) | [个人主页](https://www.liushen.fun)
+[示例网站](https://prtsc.liushen.fun) | [个人主页](https://todo.fcic.cc)
 
 ## 项目简介
 本项目基于 [himkiong 的 multiterminal-preview](https://github.com/himkiong/multiterminal-preview) 进行开发，旨在生成多端设备（手机、平板、笔记本、电脑）预览图，通过 `iframe` 实现实时网站预览，并展示不同设备外壳的截图效果。用户可以在不同设备之间切换预览，支持自定义网址输入。
